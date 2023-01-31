@@ -72,7 +72,7 @@ const user = {
 // does it work?
 user.name = "Pete" */
 
-console.log("answer: no you can't because const keyword is not able to reassign it's a block scope");
+console.log("answer: yes we can change it because it's chaning for prop not reassign for the variable");
 
 /*Exercise 6
 We have an object storing salaries of our team:
